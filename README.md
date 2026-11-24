@@ -57,14 +57,6 @@
 - **Para hallar tendencias reales**: valida consultas y hashtags en TikTok Creative Center / Creator Search Insights, GA4, Search Console y Play Console. Anota país, fecha, volumen/demanda (cuando exista) y resultados antes de afirmarlo.
 - **No afirmes** que un hashtag está «en tendencia» o tiene millones de búsquedas sin datos.
 
-## Advertencias específicas del catálogo
-
-1. **Video to Photo:** `com.appinitdev.capture.premium` figura `free=true` / precio 0, mientras `com.appinitdev.capture.free` figura `free=false` / precio 10 MXN. No corrijas los paquetes basándote en sus sufijos; revisa Play Console y evita anunciar cuál es gratis hasta confirmar.
-2. **Encrypted:** aparece bajo el paquete `com.appinitdev.pyrotechnics.premium`, aunque el título y descripción son de una app de cifrado. No lo emparejes con Pyrotechnics: son productos distintos según los datos. Comprueba que el enlace vaya a la ficha esperada antes de publicarlo.
-3. **My pregnancy:** el texto suministrado describe fundamentalmente seguimiento del ciclo y síntomas; evita prometer funciones clínicas de embarazo o evolución fetal sin evidencia.
-4. **Precios y valoraciones:** las cifras de `apps_full_data.json` son una captura de datos, no una consulta en tiempo real. Verifícalas al crear el anuncio.
-5. **Parejas gratis/pago:** sus descripciones pueden ser idénticas; no inventes beneficios «Pro» diferenciados si la fuente no los indica.
-
 ## Prioridad de publicación
 
 **Primero en cuenta personal:** Gallery, Photo Utility Hub, Video to Photo, Color Palette Hub, CanvasLab AI, TraceDraw, Photo Puzzle.
